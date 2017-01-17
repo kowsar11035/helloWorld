@@ -1,0 +1,104 @@
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 15-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.MultiLedgerCreation.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.GridForTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.GridForTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.MultiLedgerCreation.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 17-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Debug\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Debug\AccountsManagementSystem.csproj.GenerateResource.Cache

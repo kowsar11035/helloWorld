@@ -1,0 +1,934 @@
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS 19-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS 22-10-2016\AMS 17-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS  23-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.application
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.config
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.pdb
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.manifest
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.application
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.pdb
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe.manifest
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.application
+C:\Users\KYOTO\Desktop\AMS  26-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.config
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.application
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.exe
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\AccountsManagementSystem.pdb
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS  26-10-2016 Ed\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.application
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-27-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-29-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-29-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-29-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-30-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-31-10-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-02\AMS-02-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DynamictestForm.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-03-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.exe
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System.pdb
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System.application
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+G:\ProjectUpdate 23-06-2016\AMS-05-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\AMS-06-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-19-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-20-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+G:\ProjectUpdate 23-06-2016\AMS-22-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS-24-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+G:\ProjectUpdate 23-06-2016\AMS-26-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\Jannatul\Desktop\KAMS-27-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS-28-11-2016\AMS-24-11-2016\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\AccountsManagementSystem 2015-16\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+C:\Users\KYOTO\Desktop\KAMS 28.11.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MultipleBatchPosting.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmLogin.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.LogInUI.frmRegistration.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Properties.Resources.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportsUI.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.Reports.ReportViewer.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ClosingFiscalYear.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.DailyBalance.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.FiscalYear.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.GridAsJournal.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForLedgerEntry.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.JournalForSubLedgerEntry.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.Ledger.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForIndividualPosting.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryForOneCreditManyDebit.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.LedgerEntryUpdate.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MainUI.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.MultipleBatchPosting.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForFiscalYear.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.NewEntryForLedger.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.OnlyUpdateForLedgerEntry.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.PreliStepsOfLedgerEntry.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ReOpeninigFiscalYear.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedger.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.SubLedgerEntry.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.TemporaryLedgerNewEntry.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.ThreeParamUpdateForm.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedger.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateSubLedgerEntry.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.UI.UpdateTempLedger.resources
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csproj.GenerateResource.Cache
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.manifest
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.application
+F:\jony\KAMS 10.12.2016\AccountsManagementSystem\obj\Accounting Systems\AccountsManagementSystem.csprojResolveAssemblyReference.cache
+F:\jony\KAMS-11-12-2016\KAMS 11.12.2016\AccountsManagementSystem\bin\Accounting Systems\Kyoto Accounts Management System 2015-16.exe.config
+F:\jony\KAMS-11-12-2016\KAMS 11.12.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.exe
+F:\jony\KAMS-11-12-2016\KAMS 11.12.2016\AccountsManagementSystem\obj\Accounting Systems\Kyoto Accounts Management System 2015-16.pdb
